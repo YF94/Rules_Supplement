@@ -4,6 +4,7 @@
 DOMAIN-SUFFIX,epochtimes.com
 DOMAIN-SUFFIX,rtings.com
 DOMAIN-SUFFIX,rockey-repo.org
+DOMAIN-SUFFIX,war.gov
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,pincong
